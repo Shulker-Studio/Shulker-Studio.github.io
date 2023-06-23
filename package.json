@@ -1,0 +1,24 @@
+{
+    "name": "shulker-studio.github.io",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "docs:dev": "vuepress dev docs --no-cache --host 0.0.0.0 --port 4022",
+        "docs:build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Shulker-Studio/Shulker-Studio.github.io.git"
+    },
+    "author": "LWenK",
+    "license": "AGPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Shulker-Studio/Shulker-Studio.github.io/issues"
+    },
+    "homepage": "https://github.com/Shulker-Studio/Shulker-Studio.github.io#readme",
+    "devDependencies": {
+        "vuepress": "^1.8.2",
+        "vuepress-theme-gungnir": "^0.3.0"
+    }
+}
