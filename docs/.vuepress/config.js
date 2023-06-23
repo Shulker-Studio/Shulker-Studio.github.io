@@ -90,7 +90,7 @@ module.exports = {
         },
         //页脚自定义
         footer: `
-            Copyright &copy; <a href="#" target="_blank">Shulker Studio</a> 2021-2023
+            Copyright &copy; 2021-2023 <a href="#" target="_blank">Shulker Studio</a>
             <br>
         `
     }
