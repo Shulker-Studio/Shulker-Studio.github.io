@@ -43,15 +43,18 @@ module.exports = {
         },
         //主题信息
         personalInfo: {
-            name: "Shulker",
+            name: "Shulker Server",
             avatar: "/img/Shulker_Studio_Logo.png",
-            description: "A Minecraft Server",
+            description: "一个普普通通的我的世界基岩版服务器",
             sns: {
                 github: 'Shulker-Studio',
                 email: 'liuyan@lwenk.com',
                 customize: [{
-                    icon: 'LaQq',
+                    icon: 'co-tencent-qq',
                     link: "https://qm.qq.com/cgi-bin/qm/qr?k=HN-IsMVgR16r2WWuRrEVOWrlLlYUKRvY&jump_from=webapi&authKey=mkvZQHTkgxczkDw+VD3OfWcrhIQfJYG+cB+Lv080HeFhi9hWPTj2e32SYyyx4+eO"
+                }, {
+                    icon: 'ri-bilibili-fill',
+                    link: "https://space.bilibili.com/1674233182"
                 }]
             }
         },
