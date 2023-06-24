@@ -5,7 +5,7 @@ module.exports = {
         ["link", { rel: "icon", herf: "/img/logo.png" }],
         ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,user-scalable=no" }]
     ],
-    theme: 'gungnir',
+    theme: 'vuepress-theme-gungnir',
     locales: {
         "/": {
             lang: "zh-CN"
@@ -23,9 +23,19 @@ module.exports = {
         searchIcon: "ri-search-2-line",
         languageIcon: "hi-translate",
         rss: {
-            site_url: "http://shulker-studio.github.io",
+            site_url: "https://shulker.cn",
             copyright: "Shulker Studio 2021-2023",
             count: 20
+        },
+        analytics: {
+            ba: "c5d98acfa1b2bedfe39595efd5c3fa99"
+        },
+        katex: true,
+        mermaid: true,
+        chartjs: true,
+        roughviz: true,
+        mdPlus: {
+            all: true
         },
         locales: {
             "/en/": {
