@@ -55,7 +55,7 @@ module.exports = {
         personalInfo: {
             name: "Shulker Server",
             avatar: "/img/Shulker_Studio_Logo.png",
-            description: "一个普普通通的我的世界基岩版服务器",
+            description: "我的世界基岩版服务器",
             sns: {
                 github: 'Shulker-Studio',
                 email: 'liuyan@lwenk.com',

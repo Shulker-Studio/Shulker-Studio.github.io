@@ -12,7 +12,8 @@ import {
     OiGitCompare,
     CoTencentQq,
     RiBilibiliFill,
-    FaServer
+    FaServer,
+    FaDonate
 } from "oh-vue-icons/icons";
 
 OhVueIcon.add(
@@ -27,5 +28,6 @@ OhVueIcon.add(
     OiGitCompare,
     CoTencentQq,
     RiBilibiliFill,
-    FaServer
+    FaServer,
+    FaDonate
 );
