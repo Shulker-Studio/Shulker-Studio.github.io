@@ -3,6 +3,7 @@ module.exports = {
             title: "玩法/命令",
             collapsable: true,
             children: [
+                "commands/Introduce",
                 "commands/Teleport",
                 "commands/Land",
                 "commands/Shop",
